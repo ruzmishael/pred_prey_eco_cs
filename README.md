@@ -6,6 +6,7 @@ This repository contains a NetLogo simulation of a predator-prey ecosystem, feat
 **Agents**
 
 _Sharks_: Move randomly, lose energy over time, eat fish to gain energy, reproduce when energy is high, and die when energy is too low.
+
 _Fish_: Move randomly to avoid sharks, reproduce after surviving for a set time.
 
 **Behavior**
