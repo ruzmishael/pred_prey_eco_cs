@@ -9,6 +9,9 @@ _Sharks_: Move randomly, lose energy over time, eat fish to gain energy, reprodu
 
 _Fish_: Move randomly to avoid sharks, reproduce after surviving for a set time.
 
+_Algae_: Regrow periodically and serve as a food source for fish.
+
+
 **Behavior**
 
 Sharks hunt fish to survive, while fish reproduce to maintain their population. The ecosystem models the dynamic balance between predator and prey populations.
