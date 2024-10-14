@@ -1,7 +1,7 @@
 # pred_prey_eco_cs
 Prey-Predator Ecosystems (Shark-Fish-Algae)
 
-This repository contains a NetLogo simulation of a predator-prey ecosystem, featuring sharks (predators) and fish (prey).
+This repository contains a NetLogo simulation of a predator-prey ecosystem, featuring sharks (predators), fish (prey), and algae.
 
 **Agents**
 
